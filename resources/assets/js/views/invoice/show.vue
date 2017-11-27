@@ -24,7 +24,7 @@
                     <p>{{model.email}}</p>
                     <label>Дата</label>
                     <p>{{model.date}}</p>
-                    <label>Due Date</label>
+                    <label>Срок оплаты</label>
                     <p>{{model.due_date}}</p>
                 </div>
                 <div class="col-sm-4">
